@@ -1,0 +1,7 @@
+README.md
+setup.py
+walking_boi.egg-info/PKG-INFO
+walking_boi.egg-info/SOURCES.txt
+walking_boi.egg-info/dependency_links.txt
+walking_boi.egg-info/requires.txt
+walking_boi.egg-info/top_level.txt

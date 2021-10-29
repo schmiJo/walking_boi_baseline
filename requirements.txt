@@ -1,0 +1,14 @@
+cloudpickle==2.0.0
+cycler==0.11.0
+gym==0.21.0
+kiwisolver==1.3.2
+matplotlib==3.4.3
+numpy==1.21.3
+Pillow==8.4.0
+pybullet==3.2.0
+pyparsing==3.0.3
+python-dateutil==2.8.2
+six==1.16.0
+torch==1.10.0
+typing-extensions==3.10.0.2
+-e git+ssh://git@github.com/schmiJo/walking_boi_ddpg.git@e08a2472046af04af7d9a0f4991ae4b4ed0dcbc6#egg=walking_boi
